@@ -24,6 +24,7 @@ return [
     'allowed_methods' => ['*'],
     'allowed_origins' => [
         'https://saapps.onehealthpassport.com',
+        'https://nutmor.onehealthpassport.com',
     ],
     'allowed_origins_patterns' => [],
     'allowed_headers' => ['*'],
