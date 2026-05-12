@@ -25,6 +25,7 @@ return [
     'allowed_origins' => [
         'https://saapps.onehealthpassport.com',
         'https://nutmor.onehealthpassport.com',
+        'http://localhost:3001',
     ],
     'allowed_origins_patterns' => [],
     'allowed_headers' => ['*'],
